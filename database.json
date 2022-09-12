@@ -1,0 +1,239 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Olivia Ooten",
+        "email": "ooten@felix.com",
+        "witchId": 12,
+        "signId":2
+      },
+      {
+        "id": 2,
+        "name": "Natasha Cox",
+        "email": "gemini33@sister.com",
+        "witchId": 9,
+        "signId": 3
+      },
+      {
+        "id": 3,
+        "name": "Luna Lovegood",
+        "email": "quibbler@potter.com",
+        "witchId": 5,
+        "signId":  12
+      },
+      {
+        "id": 4,
+        "name": "Molly Weasley",
+        "email": "burrow@manager.com",
+        "witchId": 14,
+        "signId":  8
+      },
+      {
+        "id": 5,
+        "name": "Belatrix Lestrange",
+        "email": "follower@voldemort.gov",
+        "witchId": 2,
+        "signId":  6
+      },
+      {
+        "id": 6,
+        "name": "Minerva McGonagall",
+        "email": "headmistress@queen.com",
+        "witchId": 1,
+        "signId":  11
+      },
+      {
+        "id": 7,
+        "name": "Faith Felix",
+        "email": "faith@pisces.com",
+        "witchId": 6,
+        "signId":  12
+      }
+    ],
+    "moonPhases": [
+      {
+        "id": 1,
+        "phaseName": "Waxing Giibbous"
+       
+       
+      },
+      {
+        "id": 2,
+        "phaseName": "Waning Gibbous"
+       
+      },
+      {
+        "id": 3,
+        "phaseName": "Waxing Crescent"
+       
+      },
+      {
+        "id": 4,
+        "phaseName": "Waning Crescent"
+       
+      },
+      {
+        "id": 5,
+        "phaseName": "New Moon"
+       
+      },
+      {
+        "id": 6,
+        "phaseName": "Full Moon"
+       
+      },
+      {
+        "id": 7,
+        "phaseName": "First Quarter"
+       
+      },
+      {
+        "id": 8,
+        "phaseName": "Last Quarter"
+       
+      }
+    ],
+    "zodiacSigns": [
+      {
+        "id": 1,
+        "sign": "Aries"
+      },
+      {
+        "id": 2,
+        "sign": "Taurus"
+      },
+      {
+        "id": 3,
+        "sign": "Gemini"
+      },
+      {
+        "id": 4,
+        "sign": "Cancer"
+      },
+      {
+        "id": 5,
+        "sign": "Leo"
+      },
+      {
+        "id": 6,
+        "sign": "Virgo"
+    },
+    {
+        "id": 7,
+        "sign": "Libra"
+    },
+    {
+        "id": 8,
+        "sign": "Scorpio"
+    },
+    {
+        "id": 9,
+        "sign": "Sagittarius"
+    },
+    {
+        "id": 10,
+        "sign": "Capricorn"
+    },
+    {
+        "id": 11,
+        "sign": "Aquarius"
+    },
+    {
+        "id": 12,
+        "sign": "Pisces"
+    }
+    ],
+    "witches": [
+      {
+        "id": 1,
+        "type": "Coven-Based Witch"
+      },
+      {
+        "id": 2,
+        "type": "Solitary Witch"
+      },
+      {
+        "id": 3,
+        "type": "Hereditary Witch"
+      },
+      {
+        "id": 4,
+        "type": "Crystal Witch"
+      },
+      {
+        "id": 5,
+        "type": "Cosmic Witch"
+      },
+      {
+        "id": 6,
+        "type": "Hedge Witch"
+      },
+      {
+        "id": 7,
+        "type": "Plant Witch"
+      },
+      {
+        "id": 8,
+        "type": "Gray Witch"
+      },
+      {
+        "id": 9,
+        "type": "Eclectic Witch"
+      },
+      {
+        "id": 10,
+        "type": "Folk Witch"
+      },
+      {
+        "id": 11,
+        "type": "Baby Witch"
+      },
+      {
+        "id": 12,
+        "type": "Kitchen Witch"
+      },
+      {
+        "id": 13,
+        "type": "Hearth Witch"
+      },
+      {
+        "id": 14,
+        "type": "House Witch"
+      },
+      {
+        "id": 15,
+        "type": "Ceremonial Witch"
+      },
+      {
+        "id": 16,
+        "type": "Sea Witch"
+      },
+      {
+        "id": 17,
+        "type": "Sex Witch"
+      }
+    ],
+    "chronicles": [
+      {
+        "id": 1,
+        "userId": 3,
+        "moonPhaseId": 1,
+        "chronicle":"Today I made a simmer pot with cinnamon sticks",
+        "date": 103122
+      },
+      {
+        "id": 2,
+        "userId": 5,
+        "moonPhaseId": 5,
+        "chronicle":"It is the first of the month so I blew cinnamon in my doorways and read my tarot- I need to be more mindful of who I keep company with.",
+        "date": 100122
+      },
+      {
+        "id": 3,
+        "userId": 1,
+        "moonPhaseId": 2,
+        "chronicle":"I read my cards today and was reminded to paint more",
+        "date": 111122
+      }
+    ]
+  }
