@@ -2,10 +2,10 @@
   "users": [
     {
       "id": 1,
-      "name": "Olivia Ooten",
-      "email": "ooten@felix.com",
-      "witchId": 12,
-      "signId": 2
+      "name": "Shelby Joiner",
+      "email": "shelby@aries.com",
+      "witchId": "12",
+      "signId": "2"
     },
     {
       "id": 2,
@@ -48,6 +48,18 @@
       "email": "faith@pisces.com",
       "witchId": 6,
       "signId": 12
+    },
+    {
+      "email": "shelby@aries.com",
+      "name": "Shelby Joiner",
+      "id": 8
+    },
+    {
+      "name": "Shelby Joiner",
+      "email": "shelby@aries.com",
+      "zodiacSignId": "2",
+      "witchId": "12",
+      "id": 9
     }
   ],
   "moonPhases": [
@@ -227,18 +239,11 @@
       "date": 111122
     },
     {
-      "userId": 1,
-      "chronicle": "",
-      "moonPhase": 0,
+      "userId": 8,
+      "chronicle": "I forgot to make moon water for the Pisces full moon. ",
+      "moonPhase": "0",
       "dateCompleted": "",
       "id": 4
-    },
-    {
-      "userId": 1,
-      "chronicle": "",
-      "moonPhase": 0,
-      "dateCompleted": "",
-      "id": 5
     }
   ]
 }
