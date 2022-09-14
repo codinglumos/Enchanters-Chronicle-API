@@ -1,18 +1,11 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Shelby Joiner",
-      "email": "shelby@aries.com",
-      "witchId": "12",
-      "signId": "2"
-    },
-    {
       "id": 2,
       "name": "Natasha Cox",
       "email": "gemini33@sister.com",
-      "witchId": 9,
-      "signId": 3
+      "witchId": 15,
+      "signId": 12
     },
     {
       "id": 3,
@@ -50,16 +43,39 @@
       "signId": 12
     },
     {
-      "email": "shelby@aries.com",
-      "name": "Shelby Joiner",
+      "email": "ginny@potter.com",
+      "name": "Ginny Weasley",
+      "witchId": 2,
+      "signId": 2,
       "id": 8
     },
     {
-      "name": "Shelby Joiner",
-      "email": "shelby@aries.com",
-      "zodiacSignId": "2",
-      "witchId": "12",
+      "email": "ameena@rosebud.hotel",
+      "name": "Ameena RoseBud",
+      "witchId": 7,
+      "signId": 8,
       "id": 9
+    },
+    {
+      "email": "fuck@off.com",
+      "name": "Fuck Off",
+      "witchId": 0,
+      "signId": 0,
+      "id": 10
+    },
+    {
+      "email": "fff@ddd.com",
+      "name": "faith confused",
+      "id": 11,
+      "signId": 3,
+      "witchId": 14
+    },
+    {
+      "email": "tiny@pees.alot",
+      "name": "Tiny Pees",
+      "witchId": 17,
+      "signId": 1,
+      "id": 12
     }
   ],
   "moonPhases": [
@@ -218,31 +234,31 @@
   ],
   "chronicles": [
     {
-      "id": 1,
+      "userId": 16,
+      "chronicle": "I forgot to make moon water for the Pisces moon, but I did make a simmer pot. ",
+      "moonPhase": "Full Moon",
+      "dateCompleted": "2022-09-09T18:18:57.000Z",
+      "id": 1
+    },
+    {
+      "userId": 16,
+      "chronicle": "I read my tarot today- I am on the right path. I also keep seeing the number 11 everywhere. ",
+      "moonPhase": "Waning Gibbous",
+      "dateCompleted": "2022-09-14T18:19:36.729Z",
+      "id": 2
+    },
+    {
       "userId": 3,
-      "moonPhaseId": 1,
-      "chronicle": "Today I made a simmer pot with cinnamon sticks",
-      "date": 103122
+      "chronicle": "I am going to charge my crystals under the next full moon since I missed this past one. ",
+      "moonPhase": "Waning Gibbous",
+      "dateCompleted": "2022-09-14T18:59:58.818Z",
+      "id": 3
     },
     {
-      "id": 2,
-      "userId": 5,
-      "moonPhaseId": 5,
-      "chronicle": "It is the first of the month so I blew cinnamon in my doorways and read my tarot- I need to be more mindful of who I keep company with.",
-      "date": 100122
-    },
-    {
-      "id": 3,
-      "userId": 1,
-      "moonPhaseId": 2,
-      "chronicle": "I read my cards today and was reminded to paint more",
-      "date": 111122
-    },
-    {
-      "userId": 8,
-      "chronicle": "I forgot to make moon water for the Pisces full moon. ",
-      "moonPhase": "0",
-      "dateCompleted": "",
+      "userId": 3,
+      "chronicle": "I drove all night to see some family on the night of the full moon. I missed making water, but I made some great memories. It was beautiful as I drove!",
+      "moonPhase": "New Moon",
+      "dateCompleted": "2022-09-09T19:00:39.000Z",
       "id": 4
     }
   ]
