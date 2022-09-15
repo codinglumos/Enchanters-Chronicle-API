@@ -1,80 +1,137 @@
 {
-  "users": [
+  "userInfos": [
     {
-      "id": 2,
-      "name": "Natasha Cox",
-      "email": "gemini33@sister.com",
+      "id": 1,
+      "userId": 1,
       "witchId": 15,
       "signId": 12
     },
     {
-      "id": 3,
-      "name": "Luna Lovegood",
-      "email": "quibbler@potter.com",
+      "id": 2,
+      "userId": 2,
       "witchId": 5,
       "signId": 12
     },
     {
-      "id": 4,
-      "name": "Molly Weasley",
-      "email": "burrow@manager.com",
+      "id": 3,
+      "userId": 3,
       "witchId": 14,
       "signId": 8
     },
     {
-      "id": 5,
-      "name": "Belatrix Lestrange",
-      "email": "follower@voldemort.gov",
+      "id": 4,
+      "userId": 4,
       "witchId": 2,
       "signId": 6
     },
     {
-      "id": 6,
-      "name": "Minerva McGonagall",
-      "email": "headmistress@queen.com",
+      "id": 5,
+      "userId": 5,
       "witchId": 1,
       "signId": 11
     },
     {
-      "id": 7,
-      "name": "Faith Felix",
-      "email": "faith@pisces.com",
+      "id": 6,
+      "userId": 6,
       "witchId": 6,
       "signId": 12
     },
     {
-      "email": "ginny@potter.com",
-      "name": "Ginny Weasley",
+      "id": 7,
+      "userId": 7,
       "witchId": 2,
-      "signId": 2,
-      "id": 8
+      "signId": 2
     },
     {
-      "email": "ameena@rosebud.hotel",
-      "name": "Ameena RoseBud",
+      "id": 8,
+      "userId": 8,
       "witchId": 7,
-      "signId": 8,
-      "id": 9
+      "signId": 8
     },
     {
-      "email": "fuck@off.com",
-      "name": "Fuck Off",
-      "witchId": 0,
-      "signId": 0,
-      "id": 10
-    },
-    {
-      "email": "fff@ddd.com",
-      "name": "faith confused",
-      "id": 11,
+      "id": 9,
+      "userId": 9,
       "signId": 3,
       "witchId": 14
     },
     {
+      "id": 10,
+      "userId": 10,
+      "witchId": 17,
+      "signId": 1
+    },
+    {
+      "id": 11,
+      "userId": 11,
+      "witchId": 2,
+      "signId": 12
+    },
+    {
+      "id": 12,
+      "userId": 12,
+      "witchId": 6,
+      "signId": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Natasha Cox",
+      "email": "gemini33@sister.com"
+    },
+    {
+      "id": 2,
+      "name": "Luna Lovegood",
+      "email": "quibbler@potter.com"
+    },
+    {
+      "id": 3,
+      "name": "Molly Weasley",
+      "email": "burrow@manager.com"
+    },
+    {
+      "id": 4,
+      "name": "Belatrix Lestrange",
+      "email": "follower@voldemort.gov"
+    },
+    {
+      "id": 5,
+      "name": "Minerva McGonagall",
+      "email": "headmistress@queen.com"
+    },
+    {
+      "id": 6,
+      "name": "Faith Felix",
+      "email": "faith@pisces.com"
+    },
+    {
+      "email": "ginny@potter.com",
+      "name": "Ginny Weasley",
+      "id": 7
+    },
+    {
+      "email": "ameena@rosebud.hotel",
+      "name": "Ameena RoseBud",
+      "id": 8
+    },
+    {
+      "email": "fff@ddd.com",
+      "name": "faith confused",
+      "id": 9
+    },
+    {
       "email": "tiny@pees.alot",
       "name": "Tiny Pees",
-      "witchId": 17,
-      "signId": 1,
+      "id": 10
+    },
+    {
+      "email": "kelly@fran.hair",
+      "name": "Kelly Francoeur",
+      "id": 11
+    },
+    {
+      "email": "s@brownlee.com",
+      "name": "Steve Brownlee",
       "id": 12
     }
   ],
@@ -160,6 +217,10 @@
     {
       "id": 12,
       "sign": "Pisces"
+    },
+    {
+      "id": 13,
+      "sign": "Default"
     }
   ],
   "witches": [
@@ -230,23 +291,13 @@
     {
       "id": 17,
       "type": "Sex Witch"
+    },
+    {
+      "id": 18,
+      "type": "Default"
     }
   ],
   "chronicles": [
-    {
-      "userId": 16,
-      "chronicle": "I forgot to make moon water for the Pisces moon, but I did make a simmer pot. ",
-      "moonPhase": "Full Moon",
-      "dateCompleted": "2022-09-09T18:18:57.000Z",
-      "id": 1
-    },
-    {
-      "userId": 16,
-      "chronicle": "I read my tarot today- I am on the right path. I also keep seeing the number 11 everywhere. ",
-      "moonPhase": "Waning Gibbous",
-      "dateCompleted": "2022-09-14T18:19:36.729Z",
-      "id": 2
-    },
     {
       "userId": 3,
       "chronicle": "I am going to charge my crystals under the next full moon since I missed this past one. ",
@@ -260,6 +311,69 @@
       "moonPhase": "New Moon",
       "dateCompleted": "2022-09-09T19:00:39.000Z",
       "id": 4
+    },
+    {
+      "userId": 2,
+      "chronicle": "Heartsease ~ for healing heartbreak Rose  ~ for compassion from the feminine divine Dried flowers of each in a small sachet. Chant three times, “Petal of flowers grant your magick, release the pain of feeling heartsick.” Direct energy in a widdershins circle over the sachet three times. “By three times three, so it is said, so may it be.” Tuck under pillow or keep near heart.",
+      "moonPhase": "Waning Gibbous",
+      "dateCompleted": "2022-09-15T14:16:09.284Z",
+      "id": 5
+    },
+    {
+      "userId": 2,
+      "chronicle": "Salt - This is the quintessential Witches’ protection tool. It can be mixed with water to form consecrated water (you might want to bless it or say something over it, or visualize its clearing, or stir to imbue), and then sprinkled when cleansing a circle, dabbed on windows and doors to clear a house of bad energies, spread in a line over the front door to keep bad energies out, kept on your person, and so, sooo much more.",
+      "moonPhase": "Waxing Crescent",
+      "dateCompleted": "2022-09-06T14:18:36.000Z",
+      "id": 6
+    },
+    {
+      "userId": 12,
+      "chronicle": "Universe, I need some money One hundred dollars will suffice Deliver it fast, bring it, honey Don’t need to be too precise.  As I whisper these words, so must it be And it harm none, least of all, me.",
+      "moonPhase": "Last Quarter",
+      "dateCompleted": "2022-09-29T14:57:19.000Z",
+      "id": 7
+    },
+    {
+      "userId": 12,
+      "chronicle": "ssssssssssssss",
+      "moonPhase": "First Quarter",
+      "dateCompleted": "2022-09-15T15:33:32.811Z",
+      "id": 8
+    },
+    {
+      "userId": 7,
+      "chronicle": "Come little children, I'll take thee away / Into a land of enchantment / Come little children, the times come to play / Here in my garden of magic.",
+      "moonPhase": "Full Moon",
+      "dateCompleted": "2022-09-15T18:00:17.423Z",
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "chronicle": "Bring to a full rolling bubble. Add two drops oil of boil Mix blood of owl with the herb that's red Turn three times, pluck a hair from my head Add a dash of pox and a dead man's toe Green newt saliva Add a bit of thine own tongue",
+      "moonPhase": "Full Moon",
+      "dateCompleted": "2022-09-23T18:00:39.000Z",
+      "id": 10
+    },
+    {
+      "userId": 11,
+      "chronicle": "Thrice I with mercury purify and spit upon the tables. Ah! Fools! All of you! My ungodly book speaks to you. On All Hallows Eve when the moon is round,a virgin will summon us from under the ground.Ohh! Ohhh! We shall be back!",
+      "moonPhase": "Waxing Giibbous",
+      "dateCompleted": "2022-09-15T18:01:02.996Z",
+      "id": 11
+    },
+    {
+      "userId": 11,
+      "chronicle": "I put a spell on you And now you're mine You can't stop the things I do I ain't lyin'  It's been three hundred years Right down to the day Now the witch is back And there's h*** to pay  I put a spell on you And now you're mine!  h***o, Salem! My name's Winifred! What's yours?  I put a spell on you And now you're gone (Gone gone gone, so long!) My whammy fell on you And it was strong (So strong, so strong, so strong!)  Your wretched little lives Have all been cursed 'Cause of all the witches working I'm the worst  I put a spell on you And now you're mine  (Watch out! Watch out! Watch out! Watch out!)  If you don't believe You better get superstitious Ask my sisters \"Ooh, she's vicious!\"  I put a spell on you... I put a spell on you... Sisters!  Ah say ento pi alpha mabi upendi Ah say ento pi alpha mabi upendi In comma coriyama In comma coriyama Hey, hey, high, high Say bye-bye! Bye bye!",
+      "moonPhase": "First Quarter",
+      "dateCompleted": "2022-09-15T18:01:25.803Z",
+      "id": 12
+    },
+    {
+      "userId": 11,
+      "chronicle": "-I made sure you only see your chronicles on search and redirect to your chronicles and after no search text too",
+      "moonPhase": "Waning Crescent",
+      "dateCompleted": "2022-09-16T18:19:17.000Z",
+      "id": 13
     }
   ]
 }
