@@ -71,6 +71,60 @@
       "userId": 12,
       "witchId": 6,
       "signId": 8
+    },
+    {
+      "id": 13,
+      "userId": 13,
+      "signId": 1,
+      "witchId": 1
+    },
+    {
+      "signId": 2,
+      "witchId": 3,
+      "userId": 14,
+      "id": 14
+    },
+    {
+      "signId": 2,
+      "witchId": 2,
+      "userId": 15,
+      "id": 15
+    },
+    {
+      "signId": 2,
+      "witchId": 17,
+      "userId": 16,
+      "id": 16
+    },
+    {
+      "signId": 1,
+      "witchId": 12,
+      "userId": 17,
+      "id": 17
+    },
+    {
+      "signId": 1,
+      "witchId": 15,
+      "userId": 19,
+      "id": 18
+    },
+    {
+      "signId": 5,
+      "witchId": 9,
+      "userId": 19,
+      "id": 19
+    },
+    {
+      "signId": 1,
+      "witchId": 15,
+      "userId": 20,
+      "id": 20
+    },
+    {
+      "signId": 3,
+      "witchId": 6,
+      "userId": 21,
+      "id": 21
     }
   ],
   "users": [
@@ -133,6 +187,56 @@
       "email": "s@brownlee.com",
       "name": "Steve Brownlee",
       "id": 12
+    },
+    {
+      "email": "pumpkin@spice.fall",
+      "name": "pumpkin spice",
+      "id": 13
+    },
+    {
+      "email": "emotional@fire.friday",
+      "name": "Emotional Fire",
+      "id": 14
+    },
+    {
+      "email": "rose@friday.now",
+      "name": "Rose Friday",
+      "id": 15
+    },
+    {
+      "email": "olivia@butt.yummy",
+      "name": "Olivia Butt",
+      "id": 16
+    },
+    {
+      "email": "tired@bug.now",
+      "name": "Tired Bug",
+      "id": 17
+    },
+    {
+      "email": "eff@this.tired",
+      "name": "Eff This",
+      "id": 18
+    },
+    {
+      "email": "jack@o.lantern",
+      "name": "Jack O. Lantern",
+      "id": 19
+    },
+    {
+      "email": "joesph@friday.now",
+      "name": "Joe Friday",
+      "id": 20
+    },
+    {
+      "email": "test@user.now",
+      "name": "Test User",
+      "id": 21
+    },
+    {
+      "email": "new@tester.com",
+      "name": "New Tester",
+      "id": 22
     }
   ],
   "moonPhases": [
@@ -217,10 +321,6 @@
     {
       "id": 12,
       "sign": "Pisces"
-    },
-    {
-      "id": 13,
-      "sign": "Default"
     }
   ],
   "witches": [
@@ -291,10 +391,6 @@
     {
       "id": 17,
       "type": "Sex Witch"
-    },
-    {
-      "id": 18,
-      "type": "Default"
     }
   ],
   "chronicles": [
@@ -374,6 +470,27 @@
       "moonPhase": "Waning Crescent",
       "dateCompleted": "2022-09-16T18:19:17.000Z",
       "id": 13
+    },
+    {
+      "userId": 16,
+      "chronicle": "I think you are great!",
+      "moonPhase": "New Moon",
+      "dateCompleted": "2022-09-16T17:03:00.743Z",
+      "id": 15
+    },
+    {
+      "userId": 14,
+      "chronicle": "I call to thee, pure witch's fire, through vortex flow the heavenly mire. Cleanse brackish aura of debris, from dark to light, sweep history.",
+      "moonPhase": "Waxing Crescent",
+      "dateCompleted": "2022-09-16T19:43:07.944Z",
+      "id": 16
+    },
+    {
+      "userId": 14,
+      "chronicle": "Hear our call, for those who fall. Purge her to awaken, from this toxin taken.",
+      "moonPhase": "Full Moon",
+      "dateCompleted": "2022-09-16T19:44:05.026Z",
+      "id": 17
     }
   ]
 }
