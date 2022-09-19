@@ -7,16 +7,16 @@
       "signId": 12
     },
     {
-      "id": 2,
+      "signId": 10,
+      "witchId": 7,
       "userId": 2,
-      "witchId": 5,
-      "signId": 12
+      "id": 2
     },
     {
-      "id": 3,
+      "signId": 1,
+      "witchId": 4,
       "userId": 3,
-      "witchId": 14,
-      "signId": 8
+      "id": 3
     },
     {
       "id": 4,
@@ -57,8 +57,8 @@
     {
       "id": 10,
       "userId": 10,
-      "witchId": 17,
-      "signId": 1
+      "witchId": 4,
+      "signId": 12
     },
     {
       "id": 11,
@@ -125,6 +125,24 @@
       "witchId": 6,
       "userId": 21,
       "id": 21
+    },
+    {
+      "signId": 1,
+      "witchId": 5,
+      "userId": 22,
+      "id": 22
+    },
+    {
+      "signId": 7,
+      "witchId": 9,
+      "userId": 23,
+      "id": 23
+    },
+    {
+      "signId": 11,
+      "witchId": 10,
+      "userId": 24,
+      "id": 24
     }
   ],
   "users": [
@@ -237,6 +255,16 @@
       "email": "new@tester.com",
       "name": "New Tester",
       "id": 22
+    },
+    {
+      "email": "nina@banana.com",
+      "name": "Nina Banana",
+      "id": 23
+    },
+    {
+      "email": "bilbo@shire.com",
+      "name": "Bilbo Baggins",
+      "id": 24
     }
   ],
   "moonPhases": [
@@ -321,6 +349,10 @@
     {
       "id": 12,
       "sign": "Pisces"
+    },
+    {
+      "id": 13,
+      "sign": "Choose Witch"
     }
   ],
   "witches": [
@@ -391,6 +423,10 @@
     {
       "id": 17,
       "type": "Sex Witch"
+    },
+    {
+      "id": 18,
+      "type": "Choose Sign"
     }
   ],
   "chronicles": [
