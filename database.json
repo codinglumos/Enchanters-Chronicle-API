@@ -303,129 +303,157 @@
   "zodiacSigns": [
     {
       "id": 1,
-      "sign": "Aries"
+      "sign": "Aries",
+      "image":"https://hips.hearstapps.com/hmg-prod/images/aries-zodiac-sign-abstract-night-sky-background-royalty-free-image-1584536731.jpg"
+
     },
     {
       "id": 2,
-      "sign": "Taurus"
+      "sign": "Taurus",
+      "image":"https://hips.hearstapps.com/hmg-prod/images/taurus-zodiac-sign-abstract-night-sky-background-royalty-free-image-1587395874.jpg"
+
     },
     {
       "id": 3,
-      "sign": "Gemini"
+      "sign": "Gemini",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95pAE_TYs_BTiMmhS5xhB2j1D38WGkP8hGQ&usqp=CAU"  
+
     },
     {
       "id": 4,
-      "sign": "Cancer"
+      "sign": "Cancer",
+      "image":"https://hips.hearstapps.com/hmg-prod/images/cancer-zodiac-sign-abstract-night-sky-background-royalty-free-image-858078918-1560803578.jpg"  
+
     },
     {
       "id": 5,
-      "sign": "Leo"
+      "sign": "Leo",
+      "image":"https://www.thefactsite.com/wp-content/uploads/2022/07/leo-facts.jpg"  
+
     },
     {
       "id": 6,
-      "sign": "Virgo"
+      "sign": "Virgo",
+      "image":"https://media.istockphoto.com/photos/virgo-zodiac-sign-abstract-night-sky-background-picture-id858072842?k=20&m=858072842&s=612x612&w=0&h=_QCr5qBPS4EihfkxxUDh1d3K19JIdamH0onPbqyjrh0="  
+
     },
     {
       "id": 7,
-      "sign": "Libra"
+      "sign": "Libra",
+      "image":"https://hips.hearstapps.com/hmg-prod/images/libra-zodiac-sign-abstract-night-sky-background-royalty-free-image-1568910403.jpg"  
+
     },
     {
       "id": 8,
-      "sign": "Scorpio"
+      "sign": "Scorpio",
+      "image":"https://hips.hearstapps.com/hmg-prod/images/scorpio-zodiac-sign-abstract-night-sky-background-royalty-free-image-1571399986.jpg?crop=1.00xw:0.751xh;0,0.120xh&resize=1200:*"  
+
     },
     {
       "id": 9,
-      "sign": "Sagittarius"
+      "sign": "Sagittarius",
+      "image":"https://images.mypandit.com/myPandit_web/images/Sagittarius/Sag_Symbol.jpg"  
+
     },
     {
       "id": 10,
-      "sign": "Capricorn"
+      "sign": "Capricorn",
+      "image":"https://www.yourtango.com/sites/default/files/styles/header_slider/public/image_blog/capricorn-symbol-glyph.jpg?itok=tWeNEs05"  
+
     },
     {
       "id": 11,
-      "sign": "Aquarius"
+      "sign": "Aquarius",
+      "image":"https://media.istockphoto.com/photos/aquarius-zodiac-sign-abstract-night-sky-background-picture-id858083214?k=20&m=858083214&s=612x612&w=0&h=OYJTo7ClybSnAlEOatKZ1aVR1Tc9eMvtUDX3pg-1Vuc="  
+
     },
     {
       "id": 12,
-      "sign": "Pisces"
-    },
-    {
-      "id": 13,
-      "sign": "Choose Witch"
+      "sign": "Pisces",
+      "image":"https://nypost.com/wp-content/uploads/sites/2/2021/12/astrology-pisces-explained-1-copy.jpg?quality=75&strip=all"  
+
     }
   ],
   "witches": [
     {
       "id": 1,
-      "type": "Coven-Based Witch"
+      "type": "Coven-Based Witch",
+      "image":"https://www.tanyaplonka.com/blog/wp-content/uploads/2021/10/12-coven-witches-photos-lethbridge.jpg"
     },
     {
       "id": 2,
-      "type": "Solitary Witch"
+      "type": "Solitary Witch",
+      "image": "https://i.pinimg.com/originals/4f/f0/23/4ff0234ff23d63360080d02df1254256.jpg"
     },
     {
       "id": 3,
-      "type": "Hereditary Witch"
+      "type": "Hereditary Witch",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61wHvyIGJOS.jpg"
     },
     {
       "id": 4,
-      "type": "Crystal Witch"
+      "type": "Crystal Witch",
+      "image": "https://media.istockphoto.com/photos/healing-chakra-crystals-therapy-alternative-rituals-gemstones-for-picture-id1320619364?b=1&k=20&m=1320619364&s=170667a&w=0&h=cuq9LlVHkHPfFTBU4YvRPh85bF_NTBvGqU71Iz21_Ec="
     },
     {
       "id": 5,
-      "type": "Cosmic Witch"
+      "type": "Cosmic Witch",
+      "image": ""
     },
     {
       "id": 6,
-      "type": "Hedge Witch"
+      "type": "Hedge Witch",
+      "image": ""
     },
     {
       "id": 7,
-      "type": "Plant Witch"
+      "type": "Plant Witch",
+      "image": ""
     },
     {
       "id": 8,
-      "type": "Gray Witch"
+      "type": "Gray Witch",
+      "image": ""
     },
     {
       "id": 9,
-      "type": "Eclectic Witch"
+      "type": "Eclectic Witch",
+      "image": ""
     },
     {
       "id": 10,
-      "type": "Folk Witch"
+      "type": "Folk Witch",
+      "image": ""
     },
     {
       "id": 11,
-      "type": "Baby Witch"
+      "type": "Baby Witch",
+      "image": ""
     },
     {
       "id": 12,
-      "type": "Kitchen Witch"
+      "type": "Kitchen Witch",
+      "image": ""
     },
     {
       "id": 13,
-      "type": "Hearth Witch"
+      "type": "Hearth Witch",
+      "image": ""
     },
     {
       "id": 14,
-      "type": "House Witch"
+      "type": "House Witch",
+      "image": ""
     },
     {
       "id": 15,
-      "type": "Ceremonial Witch"
+      "type": "Ceremonial Witch",
+      "image": ""
     },
     {
       "id": 16,
-      "type": "Sea Witch"
-    },
-    {
-      "id": 17,
-      "type": "Sex Witch"
-    },
-    {
-      "id": 18,
-      "type": "Choose Sign"
+      "type": "Sea Witch",
+      "image": ""
     }
   ],
   "chronicles": [
@@ -526,6 +554,29 @@
       "moonPhase": "Full Moon",
       "dateCompleted": "2022-09-16T19:44:05.026Z",
       "id": 17
+    },
+    {
+      "userId": 2,
+      "chronicle": "I want to picture this shit in my head. ",
+      "moonPhase": "Waxing Giibbous",
+      "dateCompleted": "2022-09-15T13:27:08.000Z",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "chronicle": "wwww",
+      "moonPhase": "Waxing Crescent",
+      "dateCompleted": "2022-09-21T17:46:36.711Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663782407/iukxed8ltjvadn4az5pk.jpg",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "chronicle": "hhhhhhh",
+      "moonPhase": "Waning Gibbous",
+      "dateCompleted": "2022-09-21T17:56:19.799Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663784266/ov9mqjjfalraocbv1myl.jpg",
+      "id": 24
     }
   ]
 }
