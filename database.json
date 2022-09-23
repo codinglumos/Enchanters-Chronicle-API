@@ -13,8 +13,8 @@
       "id": 2
     },
     {
-      "signId": 1,
-      "witchId": 4,
+      "signId": 3,
+      "witchId": 10,
       "userId": 3,
       "id": 3
     },
@@ -49,82 +49,88 @@
       "signId": 8
     },
     {
-      "id": 11,
-      "userId": 11,
+      "id": 9,
+      "userId": 9,
       "witchId": 2,
       "signId": 12
     },
     {
-      "id": 12,
-      "userId": 12,
+      "id": 10,
+      "userId": 10,
       "witchId": 6,
       "signId": 8
     },
     {
-      "id": 13,
-      "userId": 13,
+      "id": 11,
+      "userId": 11,
       "signId": 1,
       "witchId": 1
     },
     {
       "signId": 2,
       "witchId": 3,
-      "userId": 14,
-      "id": 14
+      "userId": 12,
+      "id": 12
     },
     {
       "signId": 2,
       "witchId": 2,
+      "userId": 13,
+      "id": 13
+    },
+    {
+      "signId": 1,
+      "witchId": 12,
+      "userId": 14,
+      "id": 14
+    },
+    {
+      "signId": 5,
+      "witchId": 9,
       "userId": 15,
       "id": 15
     },
     {
       "signId": 1,
-      "witchId": 12,
+      "witchId": 15,
+      "userId": 16,
+      "id": 16
+    },
+    {
+      "signId": 3,
+      "witchId": 6,
       "userId": 17,
       "id": 17
     },
     {
-      "signId": 5,
+      "signId": 1,
+      "witchId": 5,
+      "userId": 18,
+      "id": 18
+    },
+    {
+      "signId": 7,
       "witchId": 9,
       "userId": 19,
       "id": 19
     },
     {
-      "signId": 1,
-      "witchId": 15,
+      "signId": 11,
+      "witchId": 10,
       "userId": 20,
       "id": 20
     },
     {
-      "signId": 3,
-      "witchId": 6,
+      "signId": 6,
+      "witchId": 3,
       "userId": 21,
       "id": 21
     },
     {
-      "signId": 1,
-      "witchId": 5,
+      "signId": 7,
+      "witchId": 4,
       "userId": 22,
       "id": 22
-    },
-    {
-      "signId": 7,
-      "witchId": 9,
-      "userId": 23,
-      "id": 23
-    },
-    {
-      "signId": 11,
-      "witchId": 10,
-      "userId": 24,
-      "id": 24
-    },
-    {
-      "signId": 6,
-      "witchId": 3,
-      "userId": 25,
-      "id": 25
     }
   ],
   "users": [
@@ -171,67 +177,72 @@
     {
       "email": "kelly@fran.hair",
       "name": "Kelly Francoeur",
-      "id": 11
+      "id": 9
     },
     {
       "email": "s@brownlee.com",
       "name": "Steve Brownlee",
-      "id": 12
+      "id": 10
     },
     {
       "email": "pumpkin@spice.fall",
       "name": "pumpkin spice",
-      "id": 13
+      "id": 11
     },
     {
       "email": "emotional@fire.friday",
       "name": "Emotional Fire",
-      "id": 14
+      "id": 12
     },
     {
       "email": "rose@friday.now",
       "name": "Rose Friday",
-      "id": 15
+      "id": 13
     },
     {
       "email": "tired@bug.now",
       "name": "Tired Bug",
-      "id": 17
+      "id": 14
     },
     {
       "email": "jack@o.lantern",
       "name": "Jack O. Lantern",
-      "id": 19
+      "id": 15
     },
     {
       "email": "joesph@friday.now",
       "name": "Joe Friday",
-      "id": 20
+      "id": 16
     },
     {
       "email": "test@user.now",
       "name": "Test User",
-      "id": 21
+      "id": 17
     },
     {
       "email": "new@tester.com",
       "name": "New Tester",
-      "id": 22
+      "id": 18
     },
     {
       "email": "nina@banana.com",
       "name": "Nina Banana",
-      "id": 23
+      "id": 19
     },
     {
       "email": "bilbo@shire.com",
       "name": "Bilbo Baggins",
-      "id": 24
+      "id": 20
     },
     {
       "email": "jules@nephew.com",
       "name": "Julien Mataj",
-      "id": 25
+      "id": 21
+    },
+    {
+      "email": "tbc@mom.com",
+      "name": "Teresa Cox",
+      "id": 22
     }
   ],
   "moonPhases": [
@@ -414,21 +425,6 @@
   ],
   "chronicles": [
     {
-      "userId": 3,
-      "chronicle": "I drove all night to see some family on the night of the full moon. I missed making water, but I made some great memories. It was beautiful as I drove!",
-      "moonPhase": "New Moon",
-      "dateCompleted": "2022-09-09T19:00:39.000Z",
-      "id": 4
-    },
-    {
-      "userId": 3,
-      "chronicle": "Power of Three, we summon thee,\nAnd call to us the Angel of Destiny.",
-      "moonPhase": "Waxing Crescent",
-      "dateCompleted": "2022-09-08T19:15:44.000Z",
-      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663874176/e9mbsjwcq9hhu1rsiwg5.jpg",
-      "id": 27
-    },
-    {
       "userId": 1,
       "chronicle": "Aura Cleanse\nI call to thee, pure witch's fire,\nthrough vortex flow the heavenly mire.\nCleanse brackish aura of debris,\nfrom dark to light, sweep history.\n",
       "moonPhase": "Waxing Crescent",
@@ -579,6 +575,46 @@
       "dateCompleted": "2022-09-22T19:36:43.089Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663875417/zlenx7avt1ulojff8uml.jpg",
       "id": 46
+    },
+    {
+      "userId": 22,
+      "chronicle": "This is a test",
+      "moonPhase": "Waning Crescent",
+      "dateCompleted": "2022-09-23T14:05:58.815Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663941969/klaevtiach4xqmaq8qca.jpg",
+      "id": 47
+    },
+    {
+      "userId": 22,
+      "chronicle": "Test",
+      "moonPhase": "Waxing Crescent",
+      "dateCompleted": "2022-09-23T14:06:17.201Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663941986/cgdemm5jsmgkbu37tywt.jpg",
+      "id": 48
+    },
+    {
+      "userId": 3,
+      "chronicle": "\"The truth: It is a beautiful and terrible thing, and should therefore be treated with caution.\"",
+      "moonPhase": "First Quarter",
+      "dateCompleted": "2022-09-10T14:35:11.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663943726/qn2c6y017ayhydsxvqrw.jpg",
+      "id": 49
+    },
+    {
+      "userId": 3,
+      "chronicle": "\"It matters not what someone is born, but what they grow to be.\"",
+      "moonPhase": "Waning Gibbous",
+      "dateCompleted": "2022-09-23T18:16:41.147Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663957021/y6hbgkm1hnhjbhqsyeva.jpg",
+      "id": 50
+    },
+    {
+      "userId": 3,
+      "chronicle": "\"It is the unknown we fear when we look upon death and darkness. Nothing more.\"",
+      "moonPhase": "Full Moon",
+      "dateCompleted": "2022-10-19T18:24:38.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663957498/brrovgx13dfsnyja049o.jpg",
+      "id": 51
     }
   ]
 }
