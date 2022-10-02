@@ -31,10 +31,10 @@
       "signId": 11
     },
     {
-      "id": 6,
-      "userId": 6,
+      "signId": 12,
       "witchId": 6,
-      "signId": 12
+      "userId": 6,
+      "id": 6
     },
     {
       "id": 7,
@@ -482,15 +482,7 @@
     },
     {
       "userId": 6,
-      "chronicle": "Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.\"",
-      "moonPhase": "Waxing Crescent",
-      "dateCompleted": "2022-09-24T19:23:15.000Z",
-      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663874606/x4pq3afxraesomj1cpq1.jpg",
-      "id": 36
-    },
-    {
-      "userId": 6,
-      "chronicle": "\"It does not do to dwell on dreams and forget to live.\"",
+      "chronicle": "\"It does not do to dwell on dreams and forget to live.\"- Dumbledore",
       "moonPhase": "Full Moon",
       "dateCompleted": "2022-09-16T19:25:27.000Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663874759/sk7w6vbancgpk6r4ol0n.jpg",
@@ -607,6 +599,14 @@
       "dateCompleted": "2022-10-19T18:24:38.000Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663957498/brrovgx13dfsnyja049o.jpg",
       "id": 51
+    },
+    {
+      "userId": 6,
+      "chronicle": "Today is the first of October and I can feel fall in the air. I made sure to blow cinnamon through my doorways. ",
+      "moonPhase": "Waxing Crescent",
+      "dateCompleted": "2022-10-01T21:23:30.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664745984/o3mgeqpvucuelopvom4z.jpg",
+      "id": 52
     }
   ]
 }
