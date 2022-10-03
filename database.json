@@ -32,7 +32,7 @@
     },
     {
       "signId": 12,
-      "witchId": 6,
+      "witchId": 7,
       "userId": 6,
       "id": 6
     },
@@ -131,6 +131,12 @@
       "witchId": 4,
       "userId": 22,
       "id": 22
+    },
+    {
+      "signId": 4,
+      "witchId": 11,
+      "userId": 23,
+      "id": 23
     }
   ],
   "users": [
@@ -243,6 +249,11 @@
       "email": "tbc@mom.com",
       "name": "Teresa Cox",
       "id": 22
+    },
+    {
+      "email": "winnie@redhead.com",
+      "name": "Winnie Sanderson",
+      "id": 23
     }
   ],
   "moonPhases": [
@@ -482,7 +493,7 @@
     },
     {
       "userId": 6,
-      "chronicle": "\"It does not do to dwell on dreams and forget to live.\"- Dumbledore",
+      "chronicle": "\"It does not do to dwell on dreams and forget to live.\"-Albus Dumbledore",
       "moonPhase": "Full Moon",
       "dateCompleted": "2022-09-16T19:25:27.000Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663874759/sk7w6vbancgpk6r4ol0n.jpg",
@@ -607,6 +618,38 @@
       "dateCompleted": "2022-10-01T21:23:30.000Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664745984/o3mgeqpvucuelopvom4z.jpg",
       "id": 52
+    },
+    {
+      "userId": 23,
+      "chronicle": "This is a tester chronicle. I am adding to this.",
+      "moonPhase": "Full Moon",
+      "dateCompleted": "2022-10-03T13:56:31.009Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664805406/y3dt7tvlgcqejlffhdh5.jpg",
+      "id": 53
+    },
+    {
+      "userId": 23,
+      "chronicle": "ffffffffffffffff",
+      "moonPhase": "New Moon",
+      "dateCompleted": "2022-09-29T13:57:33.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664805465/zlwmcnypmcxyhzsfrduv.jpg",
+      "id": 54
+    },
+    {
+      "userId": 6,
+      "chronicle": "This is a test",
+      "moonPhase": "Waxing Giibbous",
+      "dateCompleted": "2022-10-22T16:34:02.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664814861/do7ubncmcjlqtedrqcfc.jpg",
+      "id": 55
+    },
+    {
+      "userId": 6,
+      "chronicle": "This is another tester...",
+      "moonPhase": "Waxing Giibbous",
+      "dateCompleted": "2022-10-12T16:37:10.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664815050/mxhznm6may2n6gafqjid.jpg",
+      "id": 56
     }
   ]
 }
