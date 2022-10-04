@@ -31,8 +31,7 @@
       "signId": 11
     },
     {
-      "signId": 12,
-      "witchId": 7,
+      "signId": 6,
       "userId": 6,
       "id": 6
     },
@@ -493,7 +492,7 @@
     },
     {
       "userId": 6,
-      "chronicle": "\"It does not do to dwell on dreams and forget to live.\"-Albus Dumbledore",
+      "chronicle": "\"It does not do to dwell on dreams and forget to live.\"-Albus Dumbledore\n\nI am adding a test",
       "moonPhase": "Full Moon",
       "dateCompleted": "2022-09-16T19:25:27.000Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1663874759/sk7w6vbancgpk6r4ol0n.jpg",
@@ -637,18 +636,10 @@
     },
     {
       "userId": 6,
-      "chronicle": "This is a test",
-      "moonPhase": "Waxing Giibbous",
-      "dateCompleted": "2022-10-22T16:34:02.000Z",
-      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664814861/do7ubncmcjlqtedrqcfc.jpg",
-      "id": 55
-    },
-    {
-      "userId": 6,
-      "chronicle": "This is another tester...",
-      "moonPhase": "Waxing Giibbous",
-      "dateCompleted": "2022-10-12T16:37:10.000Z",
-      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664815050/mxhznm6may2n6gafqjid.jpg",
+      "chronicle": "The New Moon represents a fresh start. Gather all your intentions and release them into the universe. Set your focus and awareness on positive and loving intentions. Take care of yourself. Create what you have been dreaming about. I am adding something. ",
+      "moonPhase": "New Moon",
+      "dateCompleted": "2022-10-25T13:23:14.000Z",
+      "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664889887/wydpceqhoqtlxvirqdmp.jpg",
       "id": 56
     }
   ]
