@@ -1,10 +1,9 @@
 {
   "userInfos": [
     {
-      "id": 1,
+      "signId": 2,
       "userId": 1,
-      "witchId": 15,
-      "signId": 12
+      "id": 1
     },
     {
       "signId": 7,
@@ -636,7 +635,7 @@
     },
     {
       "userId": 6,
-      "chronicle": "The New Moon represents a fresh start. Gather all your intentions and release them into the universe. Set your focus and awareness on positive and loving intentions. Take care of yourself. Create what you have been dreaming about. I am adding something. ",
+      "chronicle": "The New Moon represents a fresh start. Gather all your intentions and release them into the universe. Set your focus and awareness on positive and loving intentions. Take care of yourself. Create what you have been dreaming about. I am adding something. I am adding things. ",
       "moonPhase": "New Moon",
       "dateCompleted": "2022-10-25T13:23:14.000Z",
       "chronicleImageUrl": "http://res.cloudinary.com/dp9hatn4d/image/upload/v1664889887/wydpceqhoqtlxvirqdmp.jpg",
